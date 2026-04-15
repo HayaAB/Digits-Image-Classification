@@ -129,11 +129,17 @@ P:3 T:2 → Misclassified
   # 📌 Key Learning Outcomes
 
 Through this project, I learned:
+
 	•	Neural Network design using PyTorch
+	
 	•	Image classification fundamentals
+	
 	•	Data preprocessing for deep learning
+	
 	•	Model training and evaluation
+	
 	•	Performance analysis using confusion matrix
+	
 	•	Visualization of predictions
   ---
   
